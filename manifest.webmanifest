@@ -1,0 +1,17 @@
+{
+  "name": "TSC NOTE · 나의 중국어 학습 노트",
+  "short_name": "TSC NOTE",
+  "description": "한자·병음·발음 원리를 함께 익히는 모바일 중심의 중국어 학습 노트",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f8f7",
+  "theme_color": "#173b33",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
